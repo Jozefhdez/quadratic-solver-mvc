@@ -2,7 +2,7 @@
 
 Una aplicación móvil en React Native que resuelve ecuaciones de segundo grado siguiendo el patrón de arquitectura **MVC (Modelo-Vista-Controlador)**.
 
-## 📱 Capturas de Pantalla
+## Capturas de Pantalla
 
 ### Ecuación con Raíces Reales
 <img src="images/image1.png" width="200" alt="Raíces Reales">
