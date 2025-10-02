@@ -4,19 +4,14 @@ Una aplicación móvil en React Native que resuelve ecuaciones de segundo grado 
 
 ## Capturas de Pantalla
 
-| Ecuación con Raíces Reales | Ecuación con Raíces Complejas | Validación de Errores |
+### Ecuación con Raíces Reales 
 
-| ![Raíces Reales](images/image1.png) | ![Raíces Complejas](images/image2.png) | ![Validación](images/image3.png) |
+![Raíces Reales](images/image1.png)
 
+### Ecuación con Raíces Complejas 
 
-### Estructura de Archivos
+![Raíces Complejas](images/image2.png)
 
-```
-src/
-├── app/(tabs)/
-│   └── index.tsx                 # VISTA - UI
-├── controllers/
-│   └── quadraticController.ts    # CONTROLADOR
-└── models/
-    └── quadraticEcuation.ts      # MODELO - Lógica matemática
-```
+### Bo existencia de la ecuación (a = 0).
+
+![Validación](images/image3.png)
